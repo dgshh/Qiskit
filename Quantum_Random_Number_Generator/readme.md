@@ -15,4 +15,5 @@ This project was created by me and my friend Arindam Ghosh. It leverages the fas
    ```bash
    git clone https://github.com/D-Ghosh/Qiskit.git
 2. Navigate to the project directory
+    ```bash
     cd quantum-random-number-generator
