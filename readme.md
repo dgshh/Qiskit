@@ -3,7 +3,7 @@
 Welcome to the Quantum Random Number Generator project! 🎲✨
 
 ## About the Project
-This project was created by **Debopriyo Ghosh (me)** and my friend **Arindam Ghosh**. It leverages the fascinating principles of quantum mechanics to generate truly random numbers.
+This project was created by **Debopriyo Ghosh (me)** together with **Arindam Ghosh** and **Sayantik Dalal**. A significant part of the work was done by **Mr. Arindam Ghosh**, and a big thanks goes to him for his valuable contribution. The project leverages fascinating principles of quantum mechanics to generate truly random numbers.
 
 ## Features
 - Utilizes quantum superposition and entanglement
